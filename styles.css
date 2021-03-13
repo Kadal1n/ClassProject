@@ -5,7 +5,16 @@
         body {text-align: center;}
 		h1 {	text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase;  #57b1dc; margin-top: 30px; }
 		h2 {  text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase; color: black; margin-top: 30px;   }
-        
-
-
         ol { text-align: left;}
+        
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
