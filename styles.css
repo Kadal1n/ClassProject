@@ -1,13 +1,51 @@
 
 		
 		
-		body {	background-color: #808080; margin: 0 10%; font-family: sans-serif; }
+     
+		body {	background-color: #b3b3b3; margin: 0 10%; font-family: sans-serif; padding-bottom: 60px; }
         body {text-align: center;}
 		h1 {	text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase;  #57b1dc; margin-top: 30px; }
 		h2 {  text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase; color: black; margin-top: 30px;   }
         ol { text-align: left;}
+
+    /* link styles */
+a:link, a:visited { color: #2c8e9b; }
+a:focus, a:hover, a:active { color: #F9AB33; }
+a { text-decoration: none; border-bottom: 1px dotted; padding-bottom: .2em}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
-.carousel .carousel-item {
+/* .carousel .carousel-item {
   height: 500px;
 }
 
@@ -17,5 +55,4 @@
     top: auto;
     left: auto;
     min-height: 500px;
-    max-width: 1000;
-}
+    max-width: 1000; */
