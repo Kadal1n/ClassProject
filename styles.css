@@ -1,7 +1,7 @@
 
 		
 		
-     
+     /* body and headings */
 		body {	background-color: #b3b3b3; margin: 0 10%; font-family: sans-serif; padding-bottom: 60px; }
         body {text-align: center;}
 		h1 {	text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase;  #57b1dc; margin-top: 30px; }
@@ -14,7 +14,7 @@ a:focus, a:hover, a:active { color: #F9AB33; }
 a { text-decoration: none; border-bottom: 1px dotted; padding-bottom: .2em}
 
 
-
+img {padding: 25px;}
 
 
 
