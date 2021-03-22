@@ -7,9 +7,9 @@
 		h1 {	text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase;  #57b1dc; margin-top: 30px; }
 		h2 {  text-align: center;	font-family: serif; font-weight: normal; text-transform: uppercase; color: black; margin-top: 30px;   }
         ol { text-align: left;}
-
+        p {padding: 25px;}
     /* link styles */
-a:link, a:visited { color: #2c8e9b; }
+a:link, a:visited { color: #0b416d; }
 a:focus, a:hover, a:active { color: #F9AB33; }
 a { text-decoration: none; border-bottom: 1px dotted; padding-bottom: .2em}
 
